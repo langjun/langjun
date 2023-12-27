@@ -2,8 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=langjun&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
-hi everyone!
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=langjun&layout=compact&theme=radical&card_width=800" />
